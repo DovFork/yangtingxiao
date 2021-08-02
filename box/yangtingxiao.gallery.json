@@ -1,0 +1,24 @@
+{
+  "name": "yangtingxiao的task",
+  "task": [
+    {
+      "config": "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jdlottery.png, enabled=true"
+    },
+    {
+      "config": "11 10 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_woHome.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/woHome.png, enabled=true"
+    },
+    {
+      "config": "10 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js, tag=天天挖矿, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/ttwk.png, enabled=true"
+    },
+    {
+      "config": "11 6 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_crazyJoy.js, tag=疯狂的JOY, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd_crazyJoy.png, enabled=true"
+    },
+    {
+      "config": "5 * * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_zoo.js, tag=动物联萌, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true"
+    },
+    {
+      "config": "11 0 * * 1 https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_deleteCoupon.js, tag=删除优惠券, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true"
+    }
+  ],
+  "description": "https://github.com/yangtingxiao/QuantumultX/"
+}
